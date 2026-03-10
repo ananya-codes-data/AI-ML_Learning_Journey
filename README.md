@@ -16,9 +16,8 @@ Each day includes:
 
 - What I studied
 - What I practiced
-- Key insight
 - Time spent
 
 No zero days.
 
-Start Date: 10th March 2026
+Start Date: 11th March 2026
