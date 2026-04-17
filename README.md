@@ -1,6 +1,6 @@
 # AI-ML Learning Journey
 
-🔥 Current Streak: Day 3
+🔥 Current Streak: Day 6
 
 This repository is my progress tracker — documenting what I study, practice, revise, and build.
 
